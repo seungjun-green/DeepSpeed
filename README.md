@@ -9,6 +9,8 @@ This repository provides comprehensive guides, theoretical foundations, and prac
 ### 1. Theory & Fundamentals
 * **[Theory.md](Theory.md)**: A deep dive into the underlying mechanisms of DeepSpeed, including ZeRO (Zero Redundancy Optimizer) stages 1, 2, and 3, memory optimization techniques, and parallelism strategies.
 
+You can read article at my medium blog: https://medium.com/@lsj3285007/deepspeed-373b0ba09db1
+
 ### 2. Training Examples
 * **[Fine-tuning Llama-7B with GSM8K](https://github.com/seungjun-green/DeepSpeed/blob/main/Deep_Speed_Sample_Script_train_7B_model_with_GSM8K.ipynb)**
     * **Goal**: Train a Llama-7B Instruct model on the GSM8K dataset.
